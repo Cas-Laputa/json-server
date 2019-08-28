@@ -1,7 +1,9 @@
 {
-  "code": 1,
-  "needMoney": 5.0,
-  "discountMoney": 0.0,
-  "payedMoney": 0.0,
-  "payMoney": 5.0
+  "parkingFee": {
+    "code": 1,
+    "needMoney": 5.0,
+    "discountMoney": 0.0,
+    "payedMoney": 0.0,
+    "payMoney": 5.0
+  }
 }
