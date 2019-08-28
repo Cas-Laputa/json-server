@@ -1,0 +1,11 @@
+{
+  "code": 1,
+  "msg": "",
+  "needMoney": 5.0,
+  "discountMoney": 0.0,
+  "payedMoney": 0.0,
+  "payMoney": 5.0,
+  "taxRate": 0.0,
+  "taxMoney": 0.0,
+  "rounding": 0.0,
+}
